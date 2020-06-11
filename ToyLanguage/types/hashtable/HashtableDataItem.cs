@@ -10,11 +10,13 @@ namespace ToyLanguage.types.hashtable
     {
         private double value;
         private int key;
+        public HashtableDataItem next;
 
-        public HashtableDataItem(double value, int key)
+        public HashtableDataItem(double value, int key, HashtableDataItem next)
         {
             this.value = value;
             this.key = key;
+            this.next = next;
         }
 
         public int getKey()
