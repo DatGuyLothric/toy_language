@@ -43,7 +43,6 @@ namespace ToyLanguage
                 Console.WriteLine("NoSuchLexemException: ", e.getValue());
             }
 
-            /*
             bool check = parser.start(tokens);
             if (check)
             {
@@ -51,10 +50,8 @@ namespace ToyLanguage
             }
             else
             {
-                parser.error.printError();
-                return;
+                Console.WriteLine("\nNo syntax errors found!");
             }
-            */
 
             tokens.Add(new Token("$", terminalTypeEnum.types["END"]));
             List<Token> postfixNotation = synthesizer.start(tokens);
