@@ -1,0 +1,19 @@
+a = 1;
+list l;
+hashtable h;
+
+i = 0;
+while (i < 10) {
+	insert (a + 2) into l on 0;
+	i = i + 1;
+}
+
+insert (((a + 2) + 2) * a) into h on 0;
+
+c = countof l;
+d = get 0 from l;
+e = get 0 from h;
+
+print(c);
+print(d);
+print(e);

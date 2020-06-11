@@ -1,0 +1,7 @@
+C:\Users\Proto\OneDrive\Рабочий стол\stuff\Дист\СПО\ToyLanguage\ToyLanguage\bin\Debug\ToyLanguage.exe.config
+C:\Users\Proto\OneDrive\Рабочий стол\stuff\Дист\СПО\ToyLanguage\ToyLanguage\bin\Debug\ToyLanguage.exe
+C:\Users\Proto\OneDrive\Рабочий стол\stuff\Дист\СПО\ToyLanguage\ToyLanguage\bin\Debug\ToyLanguage.pdb
+C:\Users\Proto\OneDrive\Рабочий стол\stuff\Дист\СПО\ToyLanguage\ToyLanguage\obj\Debug\ToyLanguage.csprojAssemblyReference.cache
+C:\Users\Proto\OneDrive\Рабочий стол\stuff\Дист\СПО\ToyLanguage\ToyLanguage\obj\Debug\ToyLanguage.csproj.CoreCompileInputs.cache
+C:\Users\Proto\OneDrive\Рабочий стол\stuff\Дист\СПО\ToyLanguage\ToyLanguage\obj\Debug\ToyLanguage.exe
+C:\Users\Proto\OneDrive\Рабочий стол\stuff\Дист\СПО\ToyLanguage\ToyLanguage\obj\Debug\ToyLanguage.pdb
